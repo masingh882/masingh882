@@ -1,49 +1,154 @@
 # Mark A. Singh
 
-**Enterprise Solutions Engineering | Applied AI Workflow Design | Customer-Facing Technical Leadership**
+## Enterprise Solutions Engineering | Applied AI Workflow Engineering | Customer-Facing Technical Leadership
 
-I explore how AI, APIs, and modern applications can improve customer engagement, business workflows, and decision-making.
+I design and build practical AI-enabled business applications that improve customer engagement, modernize business workflows, and support better decision-making through thoughtful automation.
 
-My background spans enterprise software, technical leadership, solutions engineering, cybersecurity, and hands-on AI-enabled application design. I am especially interested in practical AI systems that combine automation with human expertise.
+My career spans enterprise software, solutions engineering, technical leadership, cybersecurity, and customer success. Today I'm focused on applying modern AI technologies, APIs, and workflow orchestration to solve real business problems while keeping people at the center of the experience.
 
-## Current Focus
+---
+
+# What I'm Building
 
 - AI-enabled customer engagement workflows
 - API-driven business process automation
 - Human-in-the-loop AI systems
-- Technical storytelling and solution design
-- Enterprise customer adoption of emerging technologies
+- Technical storytelling through real-world applications
+- Enterprise adoption of emerging AI technologies
 
-## Featured Work
+> **I believe the most valuable AI solutions don't replace people—they equip them with better information, clearer context, and faster paths to action.**
 
-### Gallivanting Travel
-AI-enabled customer engagement platform built with Next.js, React, TypeScript, Vercel, and OpenAI.
+---
 
-The project demonstrates how customer submissions can trigger an API-driven workflow that generates both an immediate customer response and a structured advisor briefing.
+# Featured Projects
 
-Live site: https://www.gallivantingtravel.com
+## 🌍 Gallivanting Travel
 
-### MarkASingh.com
-Executive technical portfolio built with Next.js and TypeScript to showcase enterprise technology leadership, public technical presentations, and applied AI workflow design.
+An AI-enabled customer engagement platform demonstrating how modern web applications can improve customer experience while preparing advisors with actionable lead intelligence.
 
-Live site: https://www.markasingh.com
+### Highlights
 
-## Technology Areas
+- AI-assisted customer engagement
+- Human-in-the-loop workflow automation
+- API orchestration
+- Immediate customer response generation
+- Advisor-ready lead summaries
+- Guided customer intake experience
 
-- Next.js, React, TypeScript, JavaScript
-- REST APIs, webhooks, workflow automation
-- OpenAI, Gemini, Grok
-- Vercel, GitHub
-- SQL, IIS, Active Directory
-- Enterprise monitoring, Zero Trust, SASE
+### Technology
 
-## Operating Philosophy
+Next.js • React • TypeScript • OpenAI • REST APIs • Vercel
 
-**Understand → Clarify → Design → Execute**
+🌐 https://www.gallivantingtravel.com
 
-I enjoy building practical systems, explaining how they work, and helping people connect technology decisions to real business outcomes.
+---
 
-## Connect
+## 💼 MarkASingh.com
 
-- Portfolio: https://www.markasingh.com
-- LinkedIn: https://www.linkedin.com/in/markasingh
+An executive technical portfolio built to demonstrate enterprise technology leadership, customer-facing engineering, technical presentations, and applied AI workflow engineering.
+
+Rather than simply presenting a resume, the site documents technical experience, leadership philosophy, customer engagement, and practical AI experimentation through real-world projects.
+
+🌐 https://www.markasingh.com
+
+---
+
+# Technical Experience
+
+### Modern Web Development
+
+- Next.js
+- React
+- TypeScript
+- JavaScript
+
+### AI & Workflow Automation
+
+- OpenAI
+- Gemini
+- Grok
+- Prompt Engineering
+- Workflow Design
+- Human-in-the-Loop AI
+
+### Integration
+
+- REST APIs
+- Webhooks
+- API Orchestration
+
+### Enterprise Technologies
+
+- Enterprise Monitoring
+- SQL Troubleshooting
+- Workflow Automation
+- Zero Trust
+- SASE
+
+### Platform
+
+- Vercel
+- GitHub
+
+---
+
+# Engineering Philosophy
+
+Technology should reduce friction—not create it.
+
+The best AI solutions combine automation, transparency, and human expertise to help people make better decisions rather than simply replacing human interaction.
+
+My approach to every project is consistent:
+
+```
+Understand
+        ↓
+Clarify
+        ↓
+Design
+        ↓
+Execute
+```
+
+---
+
+# What You'll Find Here
+
+This GitHub documents practical engineering projects rather than coding exercises.
+
+The repositories focus on solving real business problems through:
+
+- AI-enabled business workflows
+- Customer engagement systems
+- API integrations
+- Modern web applications
+- Technical communication
+- Applied engineering
+- Continuous learning
+
+---
+
+# Currently Exploring
+
+- Voice AI
+- Agentic AI workflows
+- AI orchestration
+- Customer decision intelligence
+- Enterprise AI adoption
+- Technical education through real-world projects
+
+---
+
+# Connect
+
+🌐 Portfolio  
+https://www.markasingh.com
+
+💼 LinkedIn  
+https://www.linkedin.com/in/markasingh
+
+📍 Coral Springs, Florida
+
+---
+
+*"Building practical systems that help people understand technology, make better decisions, and move work forward."*
